@@ -1,6 +1,6 @@
 # Accordionize
 
-> Add accordion behavior to a definition list
+> Add accordion behavior to a definition list.
 
 ## Usage
 
