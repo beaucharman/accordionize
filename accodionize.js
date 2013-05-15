@@ -9,6 +9,7 @@
  *            {string}  active | active state selector
  * ------------------------------------------------------------------------ */
 ;(function ($) {
+  'use strict';
   $.fn.accordionize = function (options) {
     var settings = $.extend({
       'speed': 300,
