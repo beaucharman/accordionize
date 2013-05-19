@@ -1,6 +1,6 @@
 /**
  * Accordionize
- * ------------------------------------------------------------------------
+ * ========================================================================
  * accordionize()
  * @version 1.0 | May 14th 2013
  * @author  Beau Charman | @beaucharman | http://beaucharman.me
@@ -8,7 +8,7 @@
  * @param   {object} options
  *            {integer} speed
  *            {string}  active | active state selector
- * ------------------------------------------------------------------------ */
+ * ======================================================================== */
 ;(function ($) {
   'use strict';
   $.fn.accordionize = function (options) {
