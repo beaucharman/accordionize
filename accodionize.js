@@ -3,8 +3,9 @@
  * ========================================================================
  * accordionize()
  * @version 1.0 | May 14th 2013
- * @author  Beau Charman | @beaucharman | http://beaucharman.me
+ * @author  Beau Charman | @beaucharman | http://www.beaucharman.me
  * @link    https://github.com/beaucharman/accordionize
+ * @license   MIT license
  * @param   {object} options
  *            {integer} speed
  *            {string}  active | active state selector
