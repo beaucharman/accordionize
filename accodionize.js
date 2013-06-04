@@ -5,12 +5,13 @@
  * @version 1.0 | May 14th 2013
  * @author  Beau Charman | @beaucharman | http://beaucharman.me
  * @link    https://github.com/beaucharman/accordionize
- * @param   {object} options
- *            {integer} speed
- *            {string}  active | active state selector
+ * @param   {object}  options
+ *   @param {integer} speed
+ *   @param {string}  active | active state selector
  * ======================================================================== */
 ;(function ($) {
   'use strict';
+  
   $.fn.accordionize = function (options) {
     var settings = $.extend({
       'speed': 300,
