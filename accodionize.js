@@ -1,10 +1,9 @@
 /**
- * Accordionize
+ * accordionize.js
  * ========================================================================
- * accordionize()
  * @version 1.0 | May 14th 2013
  * @author  Beau Charman | @beaucharman | http://www.beaucharman.me
- * @link    https://github.com/beaucharman/accordionize
+ * @link    https://github.com/beaucharman/accordionize.js
  * @license MIT license
  * @param   {object}  options
  *   @param {integer} speed
