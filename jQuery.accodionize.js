@@ -16,7 +16,7 @@
   $.fn.accordionize = function (options) {
     var settings = $.extend({
       'speed': 300,
-      'active' : '[data-state="active"]'
+      'active': '[data-state="active"]'
     }, options);
 
     var toggleExpand = function ($this) {
