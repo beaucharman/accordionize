@@ -1,7 +1,7 @@
 /**
  * accordionize.js
  * ========================================================================
- * jQuery.accodionize.js
+ * jquery.accodionize.js
  * @version 1.0 | May 14th 2013
  * @author  Beau Charman | @beaucharman | http://www.beaucharman.me
  * @link    https://github.com/beaucharman/accordionize.js
