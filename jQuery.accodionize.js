@@ -2,13 +2,13 @@
  * accordionize.js
  * ========================================================================
  * jquery.accodionize.js
- * @version 1.0 | May 14th 2013
- * @author  Beau Charman | @beaucharman | http://www.beaucharman.me
- * @link    https://github.com/beaucharman/accordionize.js
- * @license MIT license
- * @param   {object}  options
- *   @param {integer} speed
- *   @param {string}  active | active state selector
+ * @version   1.0 | May 14th 2013
+ * @author    Beau Charman | @beaucharman | http://www.beaucharman.me
+ * @link      https://github.com/beaucharman/accordionize.js
+ * @license   MIT license
+ * @param     {object}  options
+ *   @param   {integer} speed
+ *   @param   {string}  active | active state selector
  * ======================================================================== */
 ;(function ($) {
   'use strict';
