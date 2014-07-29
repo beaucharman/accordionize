@@ -1,6 +1,6 @@
 /**
  * accordionize.js
- * ========================================================================
+ * 
  * jquery.accodionize.js
  * @version   1.0 | May 14th 2013
  * @author    Beau Charman | @beaucharman | http://www.beaucharman.me
@@ -9,7 +9,7 @@
  * @param     {object}  options
  *   @param   {integer} speed
  *   @param   {string}  active | active state selector
- * ======================================================================== */
+ */
 ;(function ($) {
   'use strict';
 
@@ -51,7 +51,7 @@
           toggleExpand($(this));
         });
 
-      $(settings.active).each(function () {
+       $(this).find(settings.active).each(function () {
         $(this)
           .addClass('open')
           .next()
